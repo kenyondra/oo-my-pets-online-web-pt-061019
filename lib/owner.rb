@@ -6,5 +6,5 @@ class Owner
   def initialize(species)
     @species = species
     @@all << self 
-    @pets = {:dogs 
+    @pets = {:cat
 end
