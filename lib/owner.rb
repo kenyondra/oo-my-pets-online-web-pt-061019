@@ -1,3 +1,4 @@
 class Owner
+  @@all = []
   
 end
