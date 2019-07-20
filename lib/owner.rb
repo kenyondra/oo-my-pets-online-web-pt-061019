@@ -47,4 +47,7 @@ class Owner
         pet.mood = "nervous"
       end
       instances.clear
-      
+    end
+  end
+  
+  
