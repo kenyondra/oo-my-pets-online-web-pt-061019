@@ -43,4 +43,4 @@ class Owner
   
   def sell_pets 
     @pets.collect do |species, instances|
-      
+      instances.each 
