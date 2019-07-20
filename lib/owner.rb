@@ -32,4 +32,5 @@ class Owner
   end
   
   def play_with_cats
-    @pets.collect do |
+    @pets.collect do |species, instances|
+      if 
