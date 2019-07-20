@@ -10,4 +10,4 @@ class Owner
   end
   
   def say_species
-    return "I am a"
+    return "I am a #"
