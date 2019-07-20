@@ -33,4 +33,5 @@ class Owner
   
   def play_with_cats
     @pets.collect do |species, instances|
-      if 
+      if species == :cats 
+        instances.each do |cat|
