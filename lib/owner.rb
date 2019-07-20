@@ -22,4 +22,5 @@ class Owner
   end
   
   def walk_dogs
-    @pets.collect do |
+    @pets.collect do |species, instances|
+      
