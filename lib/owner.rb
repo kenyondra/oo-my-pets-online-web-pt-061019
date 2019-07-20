@@ -31,4 +31,5 @@ class Owner
     end
   end
   
-  
+  def play_with_cats
+    
